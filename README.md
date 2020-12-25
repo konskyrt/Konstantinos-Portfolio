@@ -1,4 +1,4 @@
-# Konstantinos_Portfolio
+# Konstantinos Portfolio
 
 # Project 1: Machine Learning for a solar power plant
 
