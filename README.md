@@ -8,9 +8,9 @@ Created a tool that estimates electrical power output efficiency.
 We formulated a physical model and tried to see how well the real world data can adapt to it. Correctly identified several patterns that drop panel efficiency, either due to Physical phenomena and Technical aspects of the solar panels. 
 The model can identify the trend of panel efficiency over time and detect if the panels are cleaned or not.
 
-![](https://github.com/konskyrt/Konstantinos-Portfolio/blob/main/images/Capture.PNG)
+![](https://github.com/konskyrt/Konstantinos-Portfolio/blob/main/images/Capture10 (2).PNG)
 
-![](https://github.com/konskyrt/Konstantinos-Portfolio/blob/main/images/Capture2.PNG)
+![](https://github.com/konskyrt/Konstantinos-Portfolio/blob/main/images/Capture11 (2).PNG)
 
 # [Project 2: Real estate price prediction and analysis site](https://github.com/konskyrt/Predicting-Home-Prices)
 
@@ -23,9 +23,9 @@ This repository contains the code for crack detection in concrete surfaces. It i
 
 The model acheived 98% accuracy on the validation set. A few results are shown below
 
-![](https://github.com/konskyrt/Konstantinos-Portfolio/blob/main/images/Capture10 (2).PNG)
+![](https://github.com/konskyrt/Konstantinos-Portfolio/blob/main/images/Capture.PNG)
 
-![](https://github.com/konskyrt/Konstantinos-Portfolio/blob/main/images/Capture11 (2).PNG)
+![](https://github.com/konskyrt/Konstantinos-Portfolio/blob/main/images/Capture2.PNG)
 
 Dependencies required:
 
