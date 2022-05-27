@@ -5,7 +5,8 @@
 In this project I created a Plugin for Autodesk Civil 3D to insert automatically from an Excel list to Civil 3D Object Parameters.
 
 The parameters are created using the Property Set function in Civil 3D.
-![](https://ibb.co/8MSG7wQ)
+![image](https://user-images.githubusercontent.com/46296774/170711569-c9b92fc5-5791-4375-876c-b31c48fa15ee.png)
+
 
 # [Project 2: Machine Learning for a solar power plant](https://github.com/konskyrt/Machine-learning-for-a-solar-power-plant)
 
